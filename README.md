@@ -38,12 +38,6 @@
 </p>
 <br/>
 
-## Github Activity ✔
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayathu2&theme=monokai)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayathu2&theme=monokai)
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=jayathu2&theme=soft-green)](https://git.io/streak-stats)
 
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">My Statistics:</h3>
 <p align="center">
